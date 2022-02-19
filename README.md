@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1hzA42BEzt2lPvOAePP6RLLRZKggbg0RWuxSaEwd5
 
 # OUR CURRENT DEVELOPMENT REFERENCE
 
-https://ch-de.evulpo.com/lesson/245b1209-2adf-4bc6-a2f0-ae8030f3caa0/exercises/4001
+https://ch-de.evulpo.com/lesson/Deutsch_Primar34_Grammatik_Einfuehrung3Kl/exercises/4001
 
 
 
