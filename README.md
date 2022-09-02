@@ -15,7 +15,7 @@ https://docs.google.com/spreadsheets/d/1hzA42BEzt2lPvOAePP6RLLRZKggbg0RWuxSaEwd5
 3. Create the small web-app(website) using a simple file structure (index.html, main.js, style.css) -> We provide a code sample for that (CODE_SAMPLE_BASIC). Intentionally parts of the code have been deleted to avoid providing the solution but giving a hint and direction.
 4. Try to commit often during your development process so that we can review the changes over time.
 5. Document your work on the repository
-6. Once you are done with your development, send me the link via Private Message on Slack to your github repository or to my email: andres@schlaufux.ch
+6. Once you are done with your development, send me the link via Private Message on Slack to your github repository or to my email: andres@evulpo.com
 
 # Visual Reference:
 <img alt="alt_text" width="720px" src="images/single_choice.png" />
