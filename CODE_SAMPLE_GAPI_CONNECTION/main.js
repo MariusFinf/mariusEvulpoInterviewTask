@@ -1,7 +1,7 @@
 // this is a basic connection schema to the corresponding data for the table provided.
 // this API KEY will expire after January 2022
 // Written by GSoosalu & ndr3svt
-const API_KEY = 'AIzaSyDQNwROozFi8edyHduP79ZLnoMS6rWLy8E';
+const API_KEY = 'AIzaSyCfuQLHd0Aha7KuNvHK0p6V6R_0kKmsRX4';
 const DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
 const SCOPES = "https://www.googleapis.com/auth/spreadsheets.readonly";
 let exerciseIndex;
