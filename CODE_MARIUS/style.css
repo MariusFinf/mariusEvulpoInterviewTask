@@ -1,0 +1,48 @@
+#container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#question-title {
+    font-size: 2em;
+    font-weight: 400;
+}
+
+#question-options {
+    display: flex;
+    justify-content: center;
+}
+
+#question-options > div {
+    border: solid rgb(203, 203, 203) 0.3rem;
+    border-radius: 1em;
+    padding: 0.5em;
+    margin:0em 0.5em;
+    cursor: pointer;
+    color: rgb(98, 98, 98)
+}
+
+#question-options>div:hover {
+    border-color: rgb(0, 0, 0);
+}
+
+#question-option-selected {
+    background-color: black;
+    color: white;
+}
+
+#evaluate-button {
+    margin-top: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    border: solid 0.2em rgb(140, 23, 202);
+    background-color: white;
+    color: rgb(140, 23, 202);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#evaluate-button:hover {
+    background-color: rgb(140, 23, 202);
+    color:white
+}
