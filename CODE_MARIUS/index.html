@@ -21,5 +21,14 @@
 
 			<button id="evaluate-button">Evaluate :D</button>
 		</div>
+
+		<!-- Load google services -->
+		<script
+			async
+			defer
+			src="https://apis.google.com/js/api.js"
+			onload="this.onload = function(){};gapiLoaded()"
+			onreadystatechange="if (this.readyState === 'complete') this.onload()"
+		></script>
 	</body>
 </html>
