@@ -23,15 +23,15 @@
 }
 
 #question-options>div:hover {
-    border-color: rgb(0, 0, 0);
+    border-color: #14d10e;
 }
 
-#question-option-selected {
-    background-color: black;
-    color: white;
+.answer-selected {
+    color: rgb(0, 0, 0) !important;
+    border-color:#15d10e71 !important;
 }
 
-#evaluate-button {
+.evalute-button-style {
     margin-top: 1em;
     padding: 1em;
     border-radius: 1em;
@@ -42,7 +42,14 @@
     cursor: pointer;
 }
 
-#evaluate-button:hover {
+.evalute-button-style:hover {
     background-color: rgb(140, 23, 202);
     color:white
+}
+
+.evalute-button-style:disabled {
+    border: solid 0.2em #c6c6c6;
+    background-color: #c6c6c6;
+    color: rgb(255, 255, 255);
+    cursor: default;
 }
