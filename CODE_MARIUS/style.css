@@ -1,5 +1,5 @@
 #container {
-    margin: 0 auto;
+    margin: 15% auto;
     text-align: center;
 }
 
@@ -32,7 +32,7 @@
 }
 
 .evalute-button-style {
-    margin-top: 1em;
+    margin-top: 10em;
     padding: 1em;
     border-radius: 1em;
     border: solid 0.2em rgb(140, 23, 202);
@@ -52,4 +52,36 @@
     background-color: #c6c6c6;
     color: rgb(255, 255, 255);
     cursor: default;
+}
+
+#scoreText {
+    font-weight: 400;
+    font-size: 1.2em;
+    margin-left: 50em;
+}
+
+#result-container {
+    height: 100%;
+    margin: 1em 10em;
+    border-bottom: 0;
+    border-color: #14d10e;
+    color: white;
+    display: none;
+    border-radius: 5em 5em 0em 0em;
+}
+
+.answer-disabled {
+    color: rgb(255, 255, 255) !important;
+    background-color: gray !important;
+    border-color: gray !important;
+}
+
+.result-text {
+    font-size: 1.5em;
+    margin: 0em;
+}
+
+.result-points {
+    font-size: 1.1em;
+    display: none;
 }
